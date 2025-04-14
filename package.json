@@ -1,0 +1,26 @@
+{
+    "name": "expense-tracker",
+    "version": "1.0.0",
+    "description": "A simple React app to track and manage your expenses.",
+    "main": "src/main.jsx",
+    "scripts": {
+      "dev": "vite",
+      "build": "vite build",
+      "preview": "vite preview",
+      "start": "npm run dev"
+    },
+    "dependencies": {
+      "react": "^18.2.0",
+      "react-dom": "^18.2.0",
+      "vite": "^4.0.0"
+    },
+    "devDependencies": {
+      "vite-plugin-react": "^1.0.0"
+    },
+    "author": "Your Name",
+    "license": "MIT",
+    "engines": {
+      "node": ">=16.0.0"
+    }
+  }
+  
