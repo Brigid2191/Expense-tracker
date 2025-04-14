@@ -12,7 +12,7 @@ A simple **vite** app to track and manage your expenses. Users can add expenses,
 git clone git@github.com:Brigid2191/Expense-tracker.git
 cd expense-tracker
 
-Install dependancies 
+### 2. Install dependancies 
 npm install
 
 🛠 Technologies Used
@@ -22,7 +22,7 @@ Plain CSS for styling
 
 React Hooks for state management
 
-🧑‍💻 Features
+### 3. 🧑‍💻 Features
 Core Features
 Add new expenses via a form.
 
