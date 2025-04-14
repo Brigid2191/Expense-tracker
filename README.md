@@ -1,33 +1,41 @@
-# Expense Tracker
+# 💸 Expense Tracker
 
-A simple **vite** app to track and manage your expenses. Users can add expenses, filter by description, and delete items. Built with **Vite**, it provides a smooth user experience for managing daily expenses.
+A simple React app to track your expenses! 
+---
+
+## 🚀 Features
+
+✅ View a table of expenses  
+✅ Add a new expense with a form  
+✅ Filter expenses by description or category  
+✅ Delete an expense from the list  
+✅ Responsive and styled using plain CSS
 
 ---
 
-## 🚀 Quick Start
+## 🛠️ Technologies Used
 
-### 1. Clone the Repository
+- Vite
+- JavaScript (ES6+)
+- Plain CSS for styling
+
+---
+
+## 📦 Getting Started
+
+### Prerequisites
+
+- Node.js and npm installed
+
+### Installation
 
 ```bash
-git clone git@github.com:Brigid2191/Expense-tracker.git
+# Clone the repo
+git clone https://github.com/Brigid2191/Expense-tracker.git
 cd expense-tracker
 
-### 2. Install dependancies 
+# Install dependencies
 npm install
 
-🛠 Technologies Used
-Vite 
-
-Plain CSS for styling 
-
-React Hooks for state management
-
-### 3. 🧑‍💻 Features
-Core Features
-Add new expenses via a form.
-
-View all expenses in a table.
-
-Filter expenses by name or description.
-
-Delete an individual expense.
+# Run the app
+npm run dev
